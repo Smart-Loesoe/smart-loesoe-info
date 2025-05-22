@@ -40,20 +40,19 @@ It’s designed to run locally, securely, and fully customizable – acting as a
 © 2025 Richard van Olst – All rights reserved.
 
 ---
-
-## 📬 Contact
+## 📬 Contact (English)
 
 Got questions or interest in Smart Loesoe?
 
-📧 richardvanolst@gmail.com  
+📧 212790340+Smart-Loesoe@users.noreply.github.com  
 🔗 [LinkedIn profile](https://www.linkedin.com/in/richard-van-olst-558188367/)  
 📍 Netherlands
 
-_(Note: The codebase is private. Only the project vision is publicly shared.)_
+_(Note: The codebase is private. Only the project vision is publicly shar
 
 ---
 
-# Smart Loesoe – 🇬🇧 English / 🇳🇱 Nederlands
+🇬🇧 English / 🇳🇱 Nederlands
 
 ---
 
@@ -98,3 +97,16 @@ Ze is ontworpen om lokaal, veilig en volledig naar wens te functioneren als digi
 
 © 2025 Richard van Olst – Alle rechten voorbehouden.
 
+---
+
+---
+
+## 📬 Contact
+
+Vragen of interesse in Smart Loesoe?
+
+📧 212790340+Smart-Loesoe@users.noreply.github.com  
+🔗 [LinkedIn-profiel](https://www.linkedin.com/in/richard-van-olst-558188367/)  
+📍 Nederland
+
+_(Let op: de broncode is privé. Alleen de projectvisie is openbaar gedeeld.)_
